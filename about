@@ -1,0 +1,11 @@
+<div class="text-white bg-gradient bg-success p-2 mt-2 border rounded">
+    <h2>Title for a restraunt</h2>
+</div>
+
+<div class="row">
+    <div class="col-8">
+        <p>
+            Do something
+        </p>
+    </div>
+</div>

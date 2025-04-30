@@ -1,0 +1,38 @@
+
+<h1> Entrees</h1>
+<div>
+	<img src="https://img.taste.com.au/hmTyY922/w720-h480-cfill-q80/taste/2016/11/antipasto-platter-64592-1.jpeg" alt="Antipasto platter">
+	<div>
+	   <h3>Antipasto platter</h3>
+	   <button type="button" disabled>$22.95</button>
+	<p>antipasto platter featuring a mix of Italian cured meats, cheeses, olives, and marinated vegetables </p>
+	</div>
+	</div>
+
+<div>
+	<img src="https://img.taste.com.au/ch9PKEnW/w720-h480-cfill-q80/taste/2016/11/goats-cheese-pissaladiere-tarts-94769-1.jpeg" alt="Chicken Dumpling">
+	<div>
+	  <h3>Chicken and spinach dumplings</h3>
+	  <button type="button" disabled>$15.95</button>
+	<p>chicken dumpling featuring a dough wrapper, a filling of ground chicken and spinach, and fetta cheese </p>
+	</div>
+	</div>
+	
+
+<div>
+	<img src="https://img.taste.com.au/Pyujw2T9/w720-h480-cfill-q80/taste/2016/11/prawn-pork-crispy-noodle-balls-64109-1.jpeg" alt="Noodle Balls">
+	<div>
+	  <h3>Prawn, pork & crispy noodle balls</h3>
+	  <button type="button" disabled>$15.95</button>
+	<p>Prawn, pork & crispy noodle ball featuring a mixture of minced pork and prawns formed into balls, which are then coated with shredded or crumbled crispy fried noodles and deep-fried. </p>
+	</div>
+	</div>
+
+<div>
+	<img src="https://img.taste.com.au/s9cyju90/w720-h480-cfill-q80/taste/2016/11/chicken-sate-skewers-85874-1.jpeg" alt="Chiken skewers">
+	<div>
+	  <h3>Chicken sate skewers </h3>
+	  <button type="button" disabled>$19.95</button>
+	<p>Chicken sate skewers featuring marinated chicken pieces threaded onto skewers served with a peanut sauce. </p>
+	</div>
+	</div>

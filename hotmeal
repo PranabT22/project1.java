@@ -1,0 +1,39 @@
+<h1> Hotmeals</h1>
+<div>
+	<img src="https://img.taste.com.au/dLvfcKqQ/w720-h480-cfill-q80/taste/2022/09/silverbeet-spaghetti-frittata-181394-1.jpg" alt="Spagetti">
+	<div>
+	   <h3>Silverbeet and Spaghetti Frittatar</h3>
+	   <button type="button" disabled>$22.95</button>
+	<p>A Silverbeet and Spaghetti Frittata is a delicious and hearty egg-based dish that combines the vibrant greens of silverbeet with the comforting texture of spaghetti. It's like a twist on a classic frittata </p>
+	</div>
+	</div>
+	
+	
+	<div>
+	<img src="https://media.istockphoto.com/id/1286079738/photo/fried-dumplings-gyoza-with-soy-sauce-and-chopsticks-top-view.jpg?s=612x612&w=0&k=20&c=6FREWOBT7F7kx2isai3j2T5w9XYi7bp5wHfmQY5okJ8=" alt="Gyoza">
+	<div>
+	   <h3>Pork Gyoza</h3>
+	   <button type="button" disabled>$22.95</button>
+	<p>Pork gyoza are delightful little pockets of joy, bursting with the savory goodness of finely minced pork, fresh cabbage, and fragrant herbs. </p>
+	</div>
+	</div>
+	
+	
+		<div>
+	<img src="https://media.istockphoto.com/id/1060548636/photo/tasty-rustic-french-food-chicken-with-mushrooms-stewed-in-sauce-close-up-horizontal-top-view.jpg?s=612x612&w=0&k=20&c=A9hR5XKFkoKf6f-p_ddFABv9sVoCcZ5Sodp17s0cQ5I=" alt="Chicken chasseur">
+	<div>
+	   <h3>One pot chicken chasseur</h3>
+	   <button type="button" disabled>$22.95</button>
+	<p>One-pot Chicken Chasseur is a rich and flavorful French-inspired stew. It features tender chicken thighs, earthy mushrooms, and a luscious tomato and white wine sauce. </p>
+	</div>
+	</div>
+	
+	
+		<div>
+	<img src="https://media.istockphoto.com/id/1204634641/photo/pizza-with-salami-ham-bacon-garlic-and-fresh-herbs-rustic-style.jpg?s=612x612&w=0&k=20&c=aoWTrIlugKc_vhsKcIuMC4FHpyRL5Afcz5mOs728Wu8=" alt="pizza">
+	<div>
+	   <h3>Vermont Smoke and Cure Pepperoni</h3>
+	   <button type="button" disabled>$22.95</button>
+	<p>Vermont Smoke & Cure pepperoni is a savory blend of smoky, spicy, and tangy flavors, crafted from pork.Featuring fresh pork or turkey </p>
+	</div>
+	</div>

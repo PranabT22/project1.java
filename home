@@ -7,39 +7,17 @@
 
  <!-- Main Heading -->
     <div class="text-white bg-gradient bg-success p-2 mt-2 border rounded">
-        <h2>Restaurant name</h2>
+        <h2>Aroma</h2>
     </div>
   <div>
   <ul>
-  <li><a href="#home">Menu</a></li>
-  <li><a href="#news">Promos and Rewards</a></li>
-  <li><a href="#contact"> Catering</a></li>
+  <li><a href="#menu">Menu</a></li>
+  <li><a href="#promo">Promos and Rewards</a></li>
+  <li><a href="#catering"> Catering</a></li>
   <li><a href="#about">About Us</a></li>
-   <li><a href="#about">Sign In</a></li>
+   <li><a href="#login">Sign In</a></li>
   <div>
   </ul>
-    <!-- Search Bar -->
-    <div class="container mt-3">
-        <div class="row">
-            <div class="col-md-8">
-                <input class="form-control" id="myInput" type="text" placeholder="Search for dishes...">
-            </div>
+ 
 
-   <!-- Dropdown Menu to Filter by Food Type -->
-            <div class="col-md-4">
-              <form action="/action_page.php">
-              <label for="food">Choose the food type:</label>
-              <select name="food" id="food">
-              <option value="Entree">Entree</option>
-              <option value="Hotmeal">Hotmeal</option>
-              <option value="Drinks">Drinks</option>
-              <option value="Desserts">Desserts</option>
-              </select>
-              <br><br>
-              <input type="submit" value="Order Now">
-</form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+

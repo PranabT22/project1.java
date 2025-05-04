@@ -1,1 +1,47 @@
+<div class="container">
+  <h1>Grab our 5th Aniversary offer only valid for today</h1>
+  <button type="button" enabled>order now</button>
+</div>
+<h3>Promos and Rewards<h3>
+  <p>Sign in to purchase</p>
+<div>
+	<img src="https://img.bestrecipes.com.au/4DrWf5kV/br/2019/08/super-quick-sushi-fried-rice-953597-1.jpg" alt="Salmon Special">
+	<div>
+	   <h3>Salmon for all</h3>
+	   <button type="button" disabled>$32.95</button>
+	<p>Includes 3 salmon and avacado bowls with drinks of your choice </p>
+	</div>
+	</div>
+	
+	
+	<div>
+	<img src="https://img.bestrecipes.com.au/ptyQO2RZ/w643-h428-cfill-q90/br/2019/09/hawaiian-casserole-954342-2.jpg" alt="Pizza">
+	<div>
+	   <h3>Family Pan Pizza</h3>
+	   <button type="button" disabled>$40.95</button>
+	<p>Includes deep dish pizza served in a large tray with a freshly baked bread, coldslaw and drinks of your choice. </p>
+	</div>
+	</div>
+	
+	
+		<div>
+	<img src="https://www.allrecipes.com/thmb/621M6x4cTUGdCG09L1X6QHrNXqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/waffle-charcuterie-primary-photo-by-jessica-furniss-3x2-1-2000-73585476e8ca4da9a263d8e491b962ef.jpg" alt="waffle house">
+	<div>
+	   <h3>Weekend Breakfast Delight</h3>
+	   <button type="button" disabled>$40.95</button>
+	<p>Inspired by engish breakfast, comes with brussle waffles, mini potato waffles, dippy eggs, fresh yogurt made in the house, jam of your choice , bacon, seasonal fruits and cheddar cheese </p>
+	</div>
+	</div>
+	
+	
+		<div>
+	<img src="https://midwestfoodieblog.com/wp-content/uploads/2025/01/chili-cheese-dog-feature-1.jpg" alt="tacos">
+	<div>
+	   <h3>Taco Feast</h3>
+	   <button type="button" disabled>$35.95</button>
+	<p>Includes eight tacos with filling of your choice(chicken, beef, lamb) with dipping sauce with 3 magaritas </p>
+	</div>
+	</div>
+
+
 

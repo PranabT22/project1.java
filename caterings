@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aroma Catering Services</title>
+</head>
+<body>
 
+    <h1>Aroma Catering Services</h1>
+
+    <form action="/action_page.php" method="post">
+        <h3>Number of People</h3>
+        <!-- Number of people the booking is being made for -->
+        <label for="quantity">Select the number of people you are looking to cater for (between 5 and 35):</label>
+        <input type="number" id="quantity" name="quantity" min="5" max="35" required>
+        <br><br>
+
+        <h3>Booking Date</h3>
+        <!-- The day catering is to be arranged for -->
+        <label for="booking">Booking date:</label>
+        <input type="date" id="booking" name="booking" required>
+        <br><br>
+
+        <input type="submit" value="Confirm Booking">
+    </form>
+
+</body>
+</html>
+    <!-- Displaying the booking date-->
+<script>
+    document.querySelector("form").addEventListener("submit", function(event) {
+        event.preventDefault();
+        const date = document.getElementById("booking").value;
+        alert("Your catering has been booked for " + date);
+    });
+</script>
